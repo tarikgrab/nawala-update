@@ -1,6 +1,3 @@
-kenditerus.pro
-kenditerus.site
-kendilagi.online
 kenditerus.live
 kenditerus.info
 kendilagi.site
@@ -8,7 +5,6 @@ kendilagi.info
 suiliau.xyz
 henghengloo.art
 kwterus.store
-kwterus.today
 kwlagi.site
 kwlagi.info
 kwlagi.online
