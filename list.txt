@@ -22,7 +22,6 @@ vostoto-1.in
 vostoto-2.in
 vostotovip.lol
 vostotovip.lat
-linkvostoto.shop
 linkvostoto.lol
 linkvostoto.click
 vostoto.shop
