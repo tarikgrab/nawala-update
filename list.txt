@@ -1,7 +1,6 @@
 kwmaju.pro
 kwlaris.pro
 kwmaju.live
-kwmaju.art
 kwmaju.lol
 kwlaris.info
 komporbet.info
@@ -15,7 +14,6 @@ antarajateng.com
 kenditerus.info
 kendikeren.pro
 kendikeren.xyz
-kendikeren.live
 kendikeren.art
 kendikeren.info
 linekakek.lol
