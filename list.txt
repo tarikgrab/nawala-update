@@ -1,8 +1,9 @@
-kwmaju.pro
-kwlaris.pro
 kwmaju.live
 kwmaju.lol
 kwlaris.info
+kwlaris.live
+kwlaris.art
+kwlaris.lol
 komporbet.info
 komporbet.net
 komporbet.xyz
@@ -20,7 +21,6 @@ linekakek.lol
 nenekline.lol
 linekakek.pro
 nenekline.xyz
-henghengloo.live
 suiliau.art
 vostoto-1.com
 vostoto-1.in
