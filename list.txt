@@ -27,7 +27,6 @@ vostoto-1.in
 vostoto-2.in
 vostotovip.lol
 vostotovip.lat
-linkvostoto.lol
 linkvostoto.click
 vostoto.shop
 vostoto.click
