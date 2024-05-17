@@ -5,7 +5,6 @@ kendibagus.pro
 kendibagus.art
 kendibagus.info
 kwlaris.art
-kwlaris.lol
 kwgacor.xyz
 kwgacor.pro
 kw303a.xyz
