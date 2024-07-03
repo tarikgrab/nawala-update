@@ -21,8 +21,6 @@ komporbet.store
 mainkomporbet.pro
 mainkomporbet.live
 mainkomporbet.art
-slotvostoto.live
 slotvostoto.pics
 slotvostoto.quest
-slotvostoto.rest
 rtpvostoto.site
