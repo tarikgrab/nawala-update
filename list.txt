@@ -35,4 +35,5 @@ komporgacor.lol
 slotvostoto.skin
 slotvostoto.fun
 slotvostoto.monster
+slotvostoto.hair
 rtpvostoto.site
